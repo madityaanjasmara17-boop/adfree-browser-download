@@ -7,7 +7,7 @@ Browser tanpa iklan, termasuk YouTube, yang tidak ketahuan oleh pendeteksi adblo
 | **Windows** (laptop/PC, 64-bit) | [AdFree-Browser-Windows-Setup.exe](https://github.com/madityaanjasmara17-boop/adfree-browser-download/releases/latest/download/AdFree-Browser-Windows-Setup.exe) |
 | **Android** | [AdFree-Browser-Android.apk](https://github.com/madityaanjasmara17-boop/adfree-browser-download/releases/latest/download/AdFree-Browser-Android.apk) |
 
-Link di atas selalu mengarah ke versi terbaru. Versi sekarang: **0.3.0**.
+Link di atas selalu mengarah ke versi terbaru. Versi sekarang: **0.3.1**.
 
 ## Cara pasang
 
